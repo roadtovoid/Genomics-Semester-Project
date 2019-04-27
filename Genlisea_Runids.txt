@@ -1,0 +1,29 @@
+# SRR numbers for sample to download.
+
+# Bio project PRJNA208769
+
+# Genlisea aurea
+SRR929654
+SRR916071
+
+# Bio project PRJEB1866
+
+# Genlisea nigrocaulis
+ERR412884
+ERR412883
+ERR412882
+ERR412881
+ERR299267
+ERR299254
+ERR296826
+ERR296825
+
+# Genlisea hispidula
+ERR299255
+
+# Bio project PRJEB1867
+
+# Genlisea hispidula
+ERR299266
+ERR299265
+ERR299264
